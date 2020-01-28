@@ -1,4 +1,4 @@
-# Robot Reveal Video: Required angles to be filmed 
+# Robot Reveal Video: Required Angles to be Filmed 
 
 ## Intake Filming
 
