@@ -4,7 +4,7 @@
 
 - Intaking from human player
 
-- Transporting/polybar mechanism
+- Transporting: polybar mechanism
 
 ## Turret 
 
