@@ -1,19 +1,27 @@
-# Robot Reveal Video Angle and Tech Requirements
+# Robot Reveal Video: Required angles to be filmed 
 
 ## Intake Filming
 
-### Intaking from human player; transporting/polybar mechanism
+-Intaking from human player
+
+-Transporting/polybar mechanism
 
 ## Turret 
 
-### Autonomous, Turning/spinning; auton; shooting
+-Autonomous
 
-## Climbing from all different parts/stages of ascent to generator
+-Turning/spinning
 
-### With another robot (potentially)
+-Shooting
+
+## Climbing 
+
+-From all different parts/stages of ascent to generator
+
+-Potentially with another robot
 
 ## Control panel manipulator 
 
-### Film backing up
+-Film backing up
 
-### Perhaps mount on bot for epic fpv
+-Perhaps mount on bot for epic fpv
