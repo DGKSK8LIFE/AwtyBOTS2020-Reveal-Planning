@@ -20,7 +20,7 @@
 
 - Potentially with another robot
 
-## Control panel manipulator 
+## Control Panel Manipulator 
 
 - Film backing up
 
