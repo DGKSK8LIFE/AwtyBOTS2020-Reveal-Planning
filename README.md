@@ -2,26 +2,27 @@
 
 ## Intake Filming
 
--Intaking from human player
+- Intaking from human player
 
--Transporting/polybar mechanism
+- Transporting/polybar mechanism
 
 ## Turret 
 
--Autonomous
+- Autonomous
 
--Turning/spinning
+- Turning/spinning
 
--Shooting
+- Shooting
 
 ## Climbing 
 
--From all different parts/stages of ascent to generator
+- From all different parts/stages of ascent to generator
 
--Potentially with another robot
+- Potentially with another robot
 
 ## Control panel manipulator 
 
--Film backing up
+- Film backing up
 
--Perhaps mount on bot for epic fpv
+- Perhaps mount on bot for epic fpv
+
