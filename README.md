@@ -24,5 +24,5 @@
 
 - Film backing up
 
-- Perhaps mount on bot for epic fpv
+- Perhaps mount on bot for fpv
 
